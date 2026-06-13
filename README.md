@@ -61,6 +61,18 @@ The project investigates scrollytelling, responsive design systems, and user-cen
 
 ---
 
+## Personal
+
+### Fencing Referee App
+
+A brand-focused digital experience exploring how storytelling, motion, and interaction can communicate a transport company's identity online.
+
+The project investigates scrollytelling, responsive design systems, and user-centred interface design through a high-fidelity Figma prototype.
+
+`Figma` `UI/UX Design` `Design Systems` `Scrollytelling`
+
+---
+
 ## Currently Learning
 
 - Advanced React patterns and state management
