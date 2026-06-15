@@ -10,19 +10,21 @@ The banner below will be replaced by a custom-designed banner in due time... lol
 <!-- banner (1280×320px) -->
 <!-- <img src="./banner.png" alt="Rob — Frontend Developer & UI/UX Designer" width="100%"/> -->
 
-<h1 align="center">Hey, I'm Robert 👋</h1>
+<!-- <h1 align="center">Hey, I'm Robert 👋</h1> -->
 
-<p align="center">
+<!-- <p align="center"> -->
   <!-- Full Stack Developer · UI/UX Designer · Building things that look as good as they work. -->
   <!-- - Student at Open Window · Full Stack Development · UI/UX Design - -->
-  Full Stack Developer • UI/UX Designer • Building digital experiences that balance usability, functionality, and visual design
-</p>
+  <!-- Full Stack Developer • UI/UX Designer • Building digital experiences that balance usability, functionality, and visual design -->
+<!-- </p> -->
 
 <!-- <p align="center">
   <a href="https://linkedin.com/in/YOUR_HANDLE">LinkedIn</a> ·
   <a href="https://YOUR_PORTFOLIO.com">Portfolio</a> ·
   <a href="mailto:YOUR_EMAIL">Email</a>
 </p> -->
+
+![Profile Banner Robert Connor van Eijk](assets/profile-banner/profileBannerGitHub.png)
 
 ---
 
@@ -117,15 +119,6 @@ A successful interface should not only function correctly—it should communicat
 
 ---
 
-## GitHub Stats
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertvanEijk-OW-251185&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertvanEijk-OW-251185&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  Open to collaborating on interesting frontend or design-led projects. <!-- Swap this out if you're actively job hunting -->
+  Open to collaborating on interesting frontend or design-led projects.
 </p>
