@@ -71,7 +71,6 @@ A brand-focused digital experience exploring how storytelling, motion, and inter
 
 The project investigates scrollytelling, responsive design systems, and user-centred interface design through a high-fidelity Figma prototype.
 
-`Figma` `UI/UX Design` `Design Systems` `Scrollytelling`
 
 ---
 
